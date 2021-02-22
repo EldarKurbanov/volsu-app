@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ВолГУ</string>
+    <string name="title_activity_main">ВолГУ</string>
+    <string name="title_news">Новости</string>
+    <string name="title_rating">Рейтинг</string>
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+    <string name="error_string">Что-то пошло не так… Проверьте свое интернет-соединение</string>
+    <string name="registration_tv_institute">Выбери свой институт:</string>
+    <string name="registration_tv_name_plan">Направление:</string>
+    <string name="registration_tv_name_group">Имя группы:</string>
+    <string name="registration_tv_record_book">Твоя зачётная книжка:</string>
+    <string-array name="institutes">
+        <item>"Институт истории, международных отношений и социальных технологий"</item>
+        <item>"Институт управления и региональной экономики"</item>
+        <item>"Институт математики и информационных технологий"</item>
+        <item>"Институт филологии и межкультурной коммуникации"</item>
+        <item>"Институт права"</item>
+        <item>"Институт экономики и финансов"</item>
+        <item>"Институт естественных наук"</item>
+        <item>"Институт приоритетных технологий"</item>
+    </string-array>
+    <string name="choose_string">Выберите...</string>
+    <string name="registration_tv_semester">Текущий семестр:</string>
+    <string name="error_server_busy">Сервер занят. Попробуйте еще раз.</string>
+    <string name="registration_button_save">Сохранить</string>
+    <string name="rating_points_word">Баллы:</string>
+</resources>

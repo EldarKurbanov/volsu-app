@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">VolSU</string>
+    <string name="title_activity_main">VolSU</string>
+    <string name="title_news">News</string>
+    <string name="title_rating">Rating</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_string">Something went wrong… Check you internet connection.</string>
+    <string name="log_tag" translatable="false">VolSU App Log</string>
+    <string name="registration_tv_institute">Choose your institute:</string>
+    <string name="registration_tv_name_plan">Course:</string>
+    <string name="registration_tv_name_group">Group name:</string>
+    <string name="registration_tv_record_book">Your record book:</string>
+    <string-array name="institutes">
+        <item>"Institute of History, International Relations and Social Technologies"</item>
+        <item>"Institute of Management and Regional Economy"</item>
+        <item>"Institute of Mathematics and Informational Technologies"</item>
+        <item>"Institute of Philology and Intercultural Communication"</item>
+        <item>"Institute of Law"</item>
+        <item>"Institute of World Economy and Finances"</item>
+        <item>"Institute of Natural Sciences"</item>
+        <item>"Institute of Priority Technologies"</item>
+    </string-array>
+    <string name="choose_string">Choose…</string>
+    <string name="registration_tv_semester">Current semester:</string>
+    <string name="error_server_busy">The server is busy. Try again.</string>
+    <string name="registration_button_save">Save</string>
+    <string name="rating_points_word">Points:</string>
+</resources>
